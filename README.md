@@ -8,6 +8,10 @@ Setup environment with the following:
 
 `pip install -U jupyter-book`
 
+Run Jupyter:
+
+`jupyter notebook`
+
 Create/build book with the following:
 
 `jupyter-book create willsjupyterbook/`
