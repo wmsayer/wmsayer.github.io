@@ -1,7 +1,15 @@
-# Note
+# wmsayer Github Pages
 
-Please use the link below to view the HTML report in this repository.
+The root of my Jupyter book hosted on Github Pages
 
-This is a basic implementation of a multiple linear regression for estimating dredge production that I promptly assembled in my time at GLDD to showcase the power of Python & R for streamlined data cleaning, data manipulating, and data modeling as well as reproducible HTML reports:
+Setup environment with the following:
 
-https://wmsayer.github.io/CSDModelR.html
+`pip install jupyter`
+
+`pip install -U jupyter-book`
+
+Create/build book with the following:
+
+`jupyter-book create willsjupyterbook/`
+
+`jupyter-book build willsjupyterbook/`
