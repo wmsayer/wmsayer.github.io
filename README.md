@@ -17,3 +17,11 @@ Create/build book with the following:
 `jupyter-book create willsjupyterbook/`
 
 `jupyter-book build willsjupyterbook/`
+
+nbextensions:
+
+`pip install hide_code`
+`jupyter nbextension install --py hide_code`
+`jupyter nbextension enable --py hide_code`
+`jupyter serverextension enable --py hide_code`
+

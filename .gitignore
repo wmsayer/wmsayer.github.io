@@ -1,4 +1,5 @@
 **/Archive
 **/.idea
 venv
-.ipynb_checkpoints
+**/.ipynb_checkpoints
+willsjupyterbook/_build/
